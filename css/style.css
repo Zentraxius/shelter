@@ -1,3 +1,16 @@
-.imga {
-    border: red;
+h1 {
+    text-align: center;
+}
+
+.catimage {
+    width: 20%;
+    /* height: 300px; */
+    margin: 50px;
+    float: left;
+    background-color: black;
+    border: solid 25px black;
+}
+
+.column {
+    float: left;
 }
